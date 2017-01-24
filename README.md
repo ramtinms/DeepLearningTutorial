@@ -1,2 +1,2 @@
 # DeepLearningTutorial
-Deep learning tutorial based on Deep Learning book and PyTorch
+A Practical Approach to [Deep Learning book](http://www.deeplearningbook.org/)using [PyTorch](http://pytorch.org/), [scipy](https://www.scipy.org/), [nltk](http://www.nltk.org/), ...
